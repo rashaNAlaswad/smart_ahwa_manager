@@ -62,11 +62,22 @@ Abstract classes like `Drink` hide implementation details while exposing only es
 
 3. Follow the interactive menu prompts to manage your ahwa!
 
-## Menu Options
+## Screenshots
 
-1. **📝 Add New Order**: Create orders with customer name, drink selection, and special instructions
-2. **👀 View Pending Orders**: Display all pending orders with details
-3. **✅ Complete Order**: Mark orders as completed
-4. **📊 Daily Sales Report**: Generate comprehensive daily sales statistics
-5. **🚪 Exit**: Close the application
+### Main Menu & Add Order
+<img width="400" alt="Main Menu and Add Order Flow" src="https://github.com/user-attachments/assets/4d27aa40-902a-4c22-aa4d-ea790a989904" />
+
+### Pending Orders
+<img width="400" alt="View Pending Orders" src="https://github.com/user-attachments/assets/e32ad962-280e-473b-90c0-4afdacc56182" />
+
+### Order Management
+<img width="400" alt="View and Complete Orders" src="https://github.com/user-attachments/assets/c95f9a63-c537-4821-a288-6d4cd99877b5" />
+
+### Daily Sales Report
+<img width="400" alt="Daily Sales Report" src="https://github.com/user-attachments/assets/a3d7990c-a95a-410a-a2d1-0223c0af90d8" />
+
+
+
+
+
 
